@@ -8,9 +8,9 @@ const StaffSection = () => {
                     OUR DEDICATED STAFF
                 </h1>
                 <div className="flex justify-center flex-wrap gap-4">
-                    {/* Staff Card */}
+                    {/* Staff Card 1 */}
                     <div
-                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-br-sm shadow-2xl p-4">
+                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white shadow-2xl p-4 transform transition duration-300 hover:scale-105 hover:shadow-blue-600/40">
                         <div className="flex justify-center mb-3">
                             <img
                                 src="/src/assets/staff/staff1.png"
@@ -20,14 +20,13 @@ const StaffSection = () => {
                         </div>
                         <div className="text-center">
                             <h2 className="text-xl font-semibold">Kalana Nimsara</h2>
-                            <p className="text-sm text-slate-600 dark:text-slate-400">FOUNDER </p>
+                            <p className="text-sm text-slate-600 dark:text-slate-400">FOUNDER</p>
                         </div>
                     </div>
 
-
-                    {/* Duplicate and replace content for more staff members */}
+                    {/* Staff Card 2 */}
                     <div
-                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-2xl shadow-2xl p-4">
+                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white shadow-2xl p-4 transform transition duration-300 hover:scale-105 hover:shadow-blue-600/40">
                         <div className="flex justify-center mb-3">
                             <img
                                 src="/src/assets/staff/staff2.png"
@@ -37,12 +36,13 @@ const StaffSection = () => {
                         </div>
                         <div className="text-center">
                             <h2 className="text-xl font-semibold">Isuru Udana</h2>
-                            <p className="text-sm text-slate-600 dark:text-slate-400">CO-FOUNDER </p>
+                            <p className="text-sm text-slate-600 dark:text-slate-400">CO-FOUNDER</p>
                         </div>
                     </div>
 
+                    {/* Staff Card 3 */}
                     <div
-                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-2xl shadow-2xl p-4">
+                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white shadow-2xl p-4 transform transition duration-300 hover:scale-105 hover:shadow-blue-600/40">
                         <div className="flex justify-center mb-3">
                             <img
                                 src="/src/assets/staff/staff3.png"
@@ -52,12 +52,13 @@ const StaffSection = () => {
                         </div>
                         <div className="text-center">
                             <h2 className="text-xl font-semibold">VIDURA VIDUSHANKA</h2>
-                            <p className="text-sm text-slate-600 dark:text-slate-400">CO-FOUNDER </p>
+                            <p className="text-sm text-slate-600 dark:text-slate-400">CO-FOUNDER</p>
                         </div>
                     </div>
 
+                    {/* Staff Card 4 */}
                     <div
-                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-2xl shadow-2xl p-4">
+                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white shadow-2xl p-4 transform transition duration-300 hover:scale-105 hover:shadow-blue-600/40">
                         <div className="flex justify-center mb-3">
                             <img
                                 src="/src/assets/staff/staff5.png"
@@ -71,8 +72,9 @@ const StaffSection = () => {
                         </div>
                     </div>
 
+                    {/* Staff Card 5 */}
                     <div
-                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-2xl shadow-2xl p-4">
+                        className="w-60 bg-white dark:bg-slate-800 text-gray-800 dark:text-white shadow-2xl p-4 transform transition duration-300 hover:scale-105 hover:shadow-blue-600/40">
                         <div className="flex justify-center mb-3">
                             <img
                                 src="/src/assets/STAFF/staff4.png"
@@ -81,7 +83,7 @@ const StaffSection = () => {
                             />
                         </div>
                         <div className="text-center">
-                            <h2 className="text-xl font-semibold">VIHANGA GAGANATHARU </h2>
+                            <h2 className="text-xl font-semibold">iTz_mE_VihanGa</h2>
                             <p className="text-sm text-slate-600 dark:text-slate-400">MAIN DEVELOPER|WEB DEVELOPER</p>
                         </div>
                     </div>

@@ -47,18 +47,7 @@ const Navbar = () => {
               <li className="group relative cursor-pointer">
                 <a href="#" className="flex items-center gap-[2px] h-[72px]">
                   Home{" "}
-                  <span>
-                    <FaCaretDown className="transition-all duration-200 group-hover:rotate-180"/>
-                  </span>
                 </a>
-                {/* dropdown section */}
-                <div
-                    className="absolute -left-9 z-[99999] hidden w-[150px] bg-white shadow-md p-2 text-black rounded-md group-hover:block">
-                  <ul className="space-y-3">
-                    <li className="p-2 hover:bg-violet-200">About us</li>
-                    <li className="p-2 hover:bg-violet-200">Stremers</li>
-                  </ul>
-                </div>
               </li>
               <li>Contact us</li>
               <li>

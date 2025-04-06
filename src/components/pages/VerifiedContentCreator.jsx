@@ -56,8 +56,9 @@ const VerifiedContentCreator = () => {
                     {creators.map((creator, index) => (
                         <div
                             key={index}
-                            className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6"
+                            className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-br-sm shadow-2xl p-6 transform transition duration-300 hover:scale-105 hover:shadow-blue-600/40"
                         >
+
                             <div className="mb-4 flex justify-center">
                                 <img
                                     src={creator.img}
