@@ -28,13 +28,13 @@ const OverviewCounter = () => {
             <h1 className="text-sm font-bold text-black/80 dark:text-white sm:text-lg md:text-3xl">
               <CountUp
                   start={-1}
-                  end={15}
+                  end={20}
                   duration={2.75}
                   separator=" "
                   suffix="+"
               />
             </h1>
-            <h1 className="sm:text-md text-xs md:text-lg">Partners</h1>
+            <h1 className="sm:text-md text-xs md:text-lg">Staff</h1>
           </div>
         </div>
       </section>

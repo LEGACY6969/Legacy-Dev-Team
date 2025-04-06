@@ -32,7 +32,7 @@ const Navbar = () => {
           <div className="flex items-center gap-2 text-2xl md:text-3xl font-bold text-primary">
             <a href="#" className="flex items-center gap-2">
               <img src="/src/assets/logo.png" alt="Logo" className="w-8 h-8 md:w-10 md:h-10"/>
-              LEGACY <span className="inline-block font-bold text-primary">DEVTEAM</span>
+              LEGACY <span className="inline-block font-bold text-primary">DEV TEAM</span>
             </a>
           </div>
 
@@ -51,7 +51,7 @@ const Navbar = () => {
                     className="absolute -left-9 z-[99999] hidden w-[150px] bg-white shadow-md p-2 text-black rounded-md group-hover:block">
                   <ul className="space-y-3">
                     <li className="p-2 hover:bg-violet-200">About us</li>
-                    <li className="p-2 hover:bg-violet-200">Privacy policy</li>
+                    <li className="p-2 hover:bg-violet-200">Stremers</li>
                   </ul>
                 </div>
               </li>
