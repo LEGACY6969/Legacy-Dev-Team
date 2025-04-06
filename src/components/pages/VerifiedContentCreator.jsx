@@ -5,7 +5,7 @@ const VerifiedContentCreator = () => {
         <div className="dark:bg-gray-900 dark:text-white py-10">
             <section className="container mx-auto px-4">
                 <h1 className="text-center text-4xl font-bold mb-6">
-                    Verified Content Creator Details
+                     VERIFIED CONTENT CREATOR
                 </h1>
                 <div className="flex justify-center flex-wrap gap-6">
                     <div
@@ -128,6 +128,31 @@ const VerifiedContentCreator = () => {
                             <p className="text-lg text-slate-600 mb-4">Verified Content Creator </p>
                             <p className="text-lg mb-4">
                                 SH4GY Gaming is a verified game streamer with over 100+ subscribers across platforms
+                                like Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
+                                in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
+                            </p>
+                        </div>
+                    </div>
+                    <div
+                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6">
+                        <div className="mb-4 flex justify-center">
+                            <img
+                                src="/src/assets/streamers/img6.png"
+                                alt="Profile"
+                                className="w-24 h-24 rounded-full object-cover"
+                            />
+                        </div>
+                        <div className="text-center">
+                            <a
+                                href="https://www.youtube.com/@c4nxd" // Replace with the actual bank page URL
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <h2 className="text-2xl font-semibold mb-2">C4N STREAM</h2>
+                            </a>
+                            <p className="text-lg text-slate-600 mb-4">Verified Content Creator </p>
+                            <p className="text-lg mb-4">
+                                C4N Gaming is a verified game streamer with over 700+ subscribers across platforms
                                 like Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
                                 in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
                             </p>
