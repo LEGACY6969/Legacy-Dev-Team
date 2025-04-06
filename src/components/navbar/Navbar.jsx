@@ -31,7 +31,12 @@ const Navbar = () => {
           {/* Logo section */}
           <div className="flex items-center gap-2 text-2xl md:text-3xl font-bold text-primary">
             <a href="#" className="flex items-center gap-2">
-              <img src="/src/assets/logo.png" alt="Logo" className="w-8 h-8 md:w-10 md:h-10"/>
+              <img
+                  src={theme === "dark" ? "/src/assets/logo.png" : "/src/assets/logo2.png"}
+                  alt="Logo"
+                  className="w-8 h-8 md:w-10 md:h-10 transition-all duration-300"
+              />
+
               LEGACY <span className="inline-block font-bold text-primary">DEV TEAM</span>
             </a>
           </div>
