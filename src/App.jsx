@@ -26,7 +26,6 @@ function App() {
       <Hero />
       <OverviewCounter />
       <BannerDetails />
-      <BannerDetails reverse={true} />
       <SimpleBanner />
       <Blogs />
       <Footer />
