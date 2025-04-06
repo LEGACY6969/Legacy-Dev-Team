@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { BiPhoneCall, BiSolidSun, BiSolidMoon } from "react-icons/bi";
+import {BiPhoneCall, BiSolidSun, BiSolidMoon, BiLogoGmail, BiLogoDiscord} from "react-icons/bi";
 import { FaCaretDown } from "react-icons/fa";
 import { HiMenuAlt1, HiMenuAlt3 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsiveMenu";
@@ -59,13 +59,13 @@ const Navbar = () => {
               <li>
                 <div className="flex items-center gap-4">
                   <div>
-                    <BiPhoneCall
+                    <BiLogoDiscord
                         className="text-2xl h-[40px] w-[40px] rounded-md p-2 text-white bg-primary hover:bg-primary/90"/>
                   </div>
                   <div>
-                    <p>Call us on</p>
+                    <p>Join us on</p>
                     <p>
-                      <a href="tel:+91123456789"> +94 76 788 1537</a>
+                      <a href="https://discord.gg/dUPwqtDAkz"> LEGACY_DEV_TEAM</a>
                     </p>
                   </div>
                 </div>

@@ -10,6 +10,7 @@ import Footer from "./components/footer/Footer";
 import VerifiedContentCreator from "../src/components/pages/VerifiedContentCreator.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import StaffSection from "./components/pages/StaffSection.jsx";
 
 function App() {
     useEffect(() => {
@@ -34,6 +35,7 @@ function App() {
                     <Route path="/" element={<Blogs />} />
                     <Route path="/verified-content-creator" element={<VerifiedContentCreator />} />
                 </Routes>
+                <StaffSection />
                 <Footer />
             </div>
         </Router>

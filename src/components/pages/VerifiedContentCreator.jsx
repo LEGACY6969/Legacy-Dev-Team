@@ -9,146 +9,127 @@ const VerifiedContentCreator = () => {
                 </h1>
                 <div className="flex justify-center flex-wrap gap-6">
                     <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
+                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6">
                         <div className="mb-4 flex justify-center">
                             <img
-                                src="/src/assets/logo.png"
+                                src="/src/assets/streamers/img1.png"
                                 alt="Profile"
                                 className="w-24 h-24 rounded-full object-cover"
                             />
                         </div>
                         <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
+                            <a
+                                href="https://www.youtube.com/@Dingdong_Gaming" // Replace with the actual bank page URL
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <h2 className="text-2xl font-semibold mb-2">DINGDONG GAMING</h2>
+                            </a>
+                            <p className="text-lg text-slate-600 mb-4">Content Creator & Developer</p>
                             <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
+                                DINGDONG is a verified game streamer with over 2K subscribers across platforms like
+                                Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
+                                in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
                             </p>
                         </div>
                     </div>
                     <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
+                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6">
                         <div className="mb-4 flex justify-center">
                             <img
-                                src="/src/assets/logo.png"
+                                src="/src/assets/streamers/img2.png"
                                 alt="Profile"
                                 className="w-24 h-24 rounded-full object-cover"
                             />
                         </div>
                         <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
+                            <a
+                                href="https://www.youtube.com/@Sinhaliongaming1" // Replace with the actual bank page URL
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <h2 className="text-2xl font-semibold mb-2">SINHALION GAMING</h2>
+                            </a>
+                            <p className="text-lg text-slate-600 mb-4">Founder & Content Creator </p>
                             <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
+                                SINHALION Gaming is a verified game streamer with over 408 subscribers across platforms
+                                like Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
+                                in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
                             </p>
                         </div>
                     </div>
                     <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
+                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6">
                         <div className="mb-4 flex justify-center">
                             <img
-                                src="/src/assets/logo.png"
+                                src="/src/assets/streamers/img3.png"
                                 alt="Profile"
                                 className="w-24 h-24 rounded-full object-cover"
                             />
                         </div>
                         <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
+                            <a
+                                href="https://www.youtube.com/@KenGSL" // Replace with the actual bank page URL
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <h2 className="text-2xl font-semibold mb-2">KenG GAMING</h2>
+                            </a>
+                            <p className="text-lg text-slate-600 mb-4">Verified Content Creator </p>
                             <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
+                                KenG Gaming is a verified game streamer with over 100+ subscribers across platforms
+                                like Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
+                                in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
                             </p>
                         </div>
                     </div>
                     <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
+                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6">
                         <div className="mb-4 flex justify-center">
                             <img
-                                src="/src/assets/logo.png"
+                                src="/src/assets/streamers/img4.png"
                                 alt="Profile"
                                 className="w-24 h-24 rounded-full object-cover"
                             />
                         </div>
                         <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
+                            <a
+                                href="https://www.youtube.com/@gune96" // Replace with the actual bank page URL
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <h2 className="text-2xl font-semibold mb-2">GUNE STREAM</h2>
+                            </a>
+                            <p className="text-lg text-slate-600 mb-4">Verified Content Creator </p>
                             <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
+                                GUNE Gaming is a verified game streamer with over 100+ subscribers across platforms
+                                like Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
+                                in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
                             </p>
                         </div>
                     </div>
                     <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
+                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-3xl shadow-2xl p-6">
                         <div className="mb-4 flex justify-center">
                             <img
-                                src="/src/assets/logo.png"
+                                src="/src/assets/streamers/img5.png"
                                 alt="Profile"
                                 className="w-24 h-24 rounded-full object-cover"
                             />
                         </div>
                         <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
+                            <a
+                                href="https://www.youtube.com/channel/UCDBGlw9fmvVZwv2fiH6b6Kw" // Replace with the actual bank page URL
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <h2 className="text-2xl font-semibold mb-2">SH4GY STREAM</h2>
+                            </a>
+                            <p className="text-lg text-slate-600 mb-4">Verified Content Creator </p>
                             <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
-                            </p>
-                        </div>
-                    </div>
-                    <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
-                        <div className="mb-4 flex justify-center">
-                            <img
-                                src="/src/assets/logo.png"
-                                alt="Profile"
-                                className="w-24 h-24 rounded-full object-cover"
-                            />
-                        </div>
-                        <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
-                            <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
-                            </p>
-                        </div>
-                    </div>
-                    <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
-                        <div className="mb-4 flex justify-center">
-                            <img
-                                src="/src/assets/logo.png"
-                                alt="Profile"
-                                className="w-24 h-24 rounded-full object-cover"
-                            />
-                        </div>
-                        <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
-                            <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
-                            </p>
-                        </div>
-                    </div>
-                    <div
-                        className="w-full max-w-xs bg-white dark:bg-slate-800 text-gray-800 dark:text-white rounded-lg shadow-xl p-6">
-                        <div className="mb-4 flex justify-center">
-                            <img
-                                src="/src/assets/logo.png"
-                                alt="Profile"
-                                className="w-24 h-24 rounded-full object-cover"
-                            />
-                        </div>
-                        <div className="text-center">
-                            <h2 className="text-2xl font-semibold mb-2">John Doe</h2>
-                            <p className="text-lg text-slate-600 mb-4">Content Creator & Influencer</p>
-                            <p className="text-lg mb-4">
-                                John Doe is a verified content creator with over 2 million followers across social media
-                                platforms. He specializes in tech reviews, tutorials, and lifestyle content.
+                                SH4GY Gaming is a verified game streamer with over 100+ subscribers across platforms
+                                like Twitch and YouTube. Specializing in high-intensity gameplay, gaming tutorials, and
+                                in-depth tech reviews. Catch him live for epic streams, giveaways, and more!
                             </p>
                         </div>
                     </div>

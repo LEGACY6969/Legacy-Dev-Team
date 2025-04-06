@@ -39,7 +39,7 @@ const BannerDetails = ({ reverse }) => {
                   </li>
                 </ul>
               </div>
-              <button className="btn-primary">Get Started</button>
+
             </div>
 
             {/* img container */}
@@ -94,7 +94,6 @@ const BannerDetails = ({ reverse }) => {
                   </li>
                 </ul>
               </div>
-              <button className="btn-primary">Get Started</button>
             </div>
 
             {/* img container */}
