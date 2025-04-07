@@ -40,7 +40,7 @@ const SimpleBanner = () => {
 
             <div className="flex flex-col items-center gap-4 text-center text-white dark:text-white md:col-span-2 md:items-start md:text-left">
               <h1 className="text-3xl font-bold">
-                Latest Live Stream Legacy Roleplay
+                Latest Live Streames In Legacy Roleplay
               </h1>
               <p>
                 Join the latest Legacy Roleplay live stream, where you can experience an immersive, interactive world full of thrilling adventures and dynamic characters. Whether you're a seasoned roleplayer or new to the community, there's something for everyone. Don't miss out on the fun—tune in and become part of the action!

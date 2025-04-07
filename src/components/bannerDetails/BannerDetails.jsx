@@ -110,8 +110,8 @@ const BannerDetails = ({ reverse }) => {
                 <li className="font-medium">Airline Job – Fly planes & transport passengers</li>
                 <li className="font-medium">Farmer Job – Grow crops & sell them</li>
                 <li className="font-medium">Fisherman Job – Catch fish & sell them</li>
-                <li className="font-medium">Shop Job – Work at a shop & sell items</li>
-                <li className="font-medium">etc...</li>
+                <li className="font-medium">Business System – Do Your own Business</li>
+                <li className="font-medium">Government Jobs & etc...  </li>
               </ul>
             </div>
 
